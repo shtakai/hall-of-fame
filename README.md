@@ -92,4 +92,4 @@ Contribute to Hall-of-fame by all means. Here is the live Hall-of-fame for this 
 [![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/4)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/4)
 [![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/5)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/5)
 [![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/6)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/6)
-[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/7)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/7)
+[![](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/images/7)](https://sourcerer.io/fame/sergey48k/sourcerer-io/hall-of-fame/links/7) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/hall-of-fame.svg)](https://www.guardrails.io)
